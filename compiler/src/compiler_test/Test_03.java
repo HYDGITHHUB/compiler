@@ -256,7 +256,7 @@ class LR_1ProjectAggregate {
 /*
     产生式类
 */
- class ProductionFormula {
+class ProductionFormula {
 
     private String leftPart;
     private String rightPart;
